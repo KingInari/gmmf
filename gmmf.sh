@@ -1,7 +1,7 @@
 #!/bin/bash
 
-#sudo apt-get install jq
-#sudo pip install youtube-dl
+#sudo apt-get install jq -y
+#sudo pip install youtube-dl -y
 
 cd /home/pi/Desktop
 sudo -u pi touch results.log
